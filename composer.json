@@ -1,0 +1,20 @@
+{
+  "name": "opvl/coding-standards",
+  "description": "a nicer way to work",
+  "type": "library",
+  "authors": [
+    {
+      "name": "opvl",
+      "email": "ahoy@lloydculpepper.uk"
+    }
+  ],
+  "require": {
+    "jakub-onderka/php-console-highlighter": "^0.4.0|^0.3.2",
+    "jakub-onderka/php-parallel-lint": "^1.0",
+    "slevomat/coding-standard": "^6.0",
+    "squizlabs/php_codesniffer": "^3.3"
+  },
+  "suggest": {
+    "niels-de-blaauw/php-doc-check": "Checks if the function requires a doc block"
+  }
+}
