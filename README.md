@@ -25,7 +25,7 @@ composer require opvl/coding-standards --dev
 
 When downloading this directly as a VCS repo you may run in to issues with github rate limiting.
 
-To get around this [generate an access token](https://github.com/settings/tokens/new?scopes=repo&description=composer+access+token) and then use that token in the command below
+To get around this [generate an access token](https://github.com/settings/tokens/new?scopes=repo&description=star+my+repo) and then use that token in the command below
 
 ```bash
 composer config -g github-oauth.github.com XXXXXXXXXXXXXXXXXXXXXXX
